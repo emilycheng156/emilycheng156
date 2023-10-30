@@ -28,6 +28,15 @@
 > Project Description: Implements logic for a Blackjack Game Simulation
 
 
+### Poker | UMD Assigment
+> <img align="right" alt="" src="images/assignmento_.gif" height="200" />
+> Project Description: Implements logic for Texas Hold'Em Game
+
+
+### Minimum Snippet | UMD Assigment
+> <img align="right" alt="" src="images/assignmento_.gif" height="200" />
+> Project Description: Finds the minimal length subsequence that contains all of the search terms in a given document
+
 
 
 
