@@ -22,7 +22,7 @@
 </div>
 
 <br><h2 align="center"> My Projects 🚀</h2>
-
+Please contact me with an email so that I can enable access for the following projects.
 ### Blackjack | UMD Assigment
 > <img align="right" alt="" src="images/assignmento_.gif" height="200" />
 > Project Description: Implements logic for a Blackjack Game Simulation
