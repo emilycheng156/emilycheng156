@@ -29,7 +29,7 @@ Please contact me with an email so that I can enable access for the following pr
 
 
 ### Poker | UMD Assigment
-> <img align="right" alt="" src="images/assignmento_.gif" height="200" />
+> <a href = "www.github.com/emilycheng156/black-jack"> <img align="right" alt="" src="images/assignmento_.gif" height="200" /></a>
 > Project Description: Implements logic for Texas Hold'Em Game
 
 
