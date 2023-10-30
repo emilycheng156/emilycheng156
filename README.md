@@ -26,7 +26,7 @@
 ### Blackjack | UMD Assigment
 > <img align="right" alt="" src="images/assignmento_.gif" height="200" />
 > Project Description: Implements logic for a Blackjack Game Simulation
-<a href = "https://www.github.com/emilycheng156/black-jack">
+
 
 
 
