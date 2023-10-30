@@ -34,12 +34,12 @@ Please contact me with an email so that I can enable access for the following pr
 ### Poker | UMD Assigment
 <a href = "https://www.github.com/emilycheng156/black-jack"> <img align="right" alt="" src="images/assignmento_.gif" height="200" /></a>
 > Project Description: Implements logic for Texas Hold'Em Game
-
+<br>[![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/emilycheng156/texas-holdem)
 
 ### Minimum Snippet | UMD Assigment
 > <img align="right" alt="" src="images/assignmento_.gif" height="200" />
 > Project Description: Finds the minimal length subsequence that contains all of the search terms in a given document
-
+<br>[![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/emilycheng156/minimum-snippet)
 
 
 
