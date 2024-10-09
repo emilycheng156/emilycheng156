@@ -31,10 +31,10 @@ Please contact me with an email so that I can enable access for the following pr
 
 
 
-### ♠️ Poker | UMD Assigment
+### 🎥 Netflix Tableau Dashboard | Personal Project
 > <img align="right" alt="" src="images/assignmento_.gif" height="200" />
-> Project Description: Implements logic for Texas Hold'Em Game
-<br>[![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/emilycheng156/texas-holdem)
+> Project Description: Provides data visualization of movies and tv shows by genre, geographical location, and rating
+<br>[![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)]([https://github.com/emilycheng156/texas-holdem](https://github.com/emilycheng156/netflix_movies-shows))
 
 
 
